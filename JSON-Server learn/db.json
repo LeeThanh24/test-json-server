@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": {
+        "vn": "Cây đuôi công",
+        "en": "Calethea makoyana"
+      },
+      "family": "Dong (Marantaceae)",
+      "price": 120000,
+      "description": "Cây đuôi công là một loài cây cảnh thuộc họ Dong (Marantaceae), với những chiếc lá uốn cong đặc trưng giống như đuôi của con công. Nổi bật với vẻ đẹp lạ mắt và màu sắc tuyệt đẹp, loài cây này đã trở thành một trong những lựa chọn hàng đầu cho những ai yêu thích cây cảnh trong nhà.",
+      "origin": "Tropical regions of South America"
+    }
+  ]
+}
